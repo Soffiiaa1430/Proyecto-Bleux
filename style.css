@@ -70,7 +70,7 @@ body {
 }
 
 #Inic1 {
-    height: 100vh;
+    height: auto;
     display: flex;
 }
 
@@ -123,7 +123,7 @@ body {
 
 #blanco {
     background-color: #f1f2f7;
-    height: 80vh;
+    
 }
 
 #tit2 {
@@ -365,7 +365,7 @@ footer p {
     }
 
     #blanco {
-        height: 80vh;
+        height: auto;
     }
 
     .btn1 {
@@ -481,7 +481,7 @@ footer p {
     }
 
     #blanco {
-        height: 105vh;
+        height: auto;
     }
 
     .he3 {
@@ -651,7 +651,7 @@ footer p {
     }
 
     #blanco {
-        height: 90vh;
+        height: auto;
     }
 
 
@@ -856,7 +856,7 @@ footer p {
 
     .pri {
         width: 100vw;
-        height: 18vh;
+        height: auto;
         display: flex;
         flex-direction: column;
         justify-content: center;
@@ -879,7 +879,7 @@ footer p {
     }
 
     #blanco {
-        height: 80vh;
+        height: auto;
     }
     .contenedor1 {
         padding: 15px;
